@@ -1,0 +1,11 @@
+.containerr {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+.bg-body-tertiary2 {
+  background-color:white !important;
+}
+element.style {
+  WIDTH: 424PX;
+}
